@@ -12,4 +12,11 @@ public class Sales {
         System.out.printf("The comission is: " + comission);
 
     }
+
+    //Activity C
+    public static void isEven(int number){
+        boolean answer = number/2;
+        System.out.println("The number " + number + "is even? " + answer);
+    }
+    
 }
